@@ -89,7 +89,7 @@ final class HelloLibbulletjme implements Runnable {
             String textLine = String.format("%s%n", location);
             MainActivity.buffer.append(textLine);
         }
-        
+
         MainActivity.running = false;
     }
     // *************************************************************************
