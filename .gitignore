@@ -1,0 +1,12 @@
+# Ignore Gradle's project-specific cache directory:
+/.gradle/
+
+# Ignore Gradle's build output directories:
+/HelloLibbulletjme/build/
+/build/
+
+# Ignore local configuration:
+/local.properties
+
+# Ignore IDE-specific directories:
+/.idea/
