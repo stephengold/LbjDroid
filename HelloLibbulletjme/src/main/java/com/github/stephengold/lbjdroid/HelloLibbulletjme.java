@@ -68,7 +68,7 @@ final class HelloLibbulletjme implements Runnable {
     HelloLibbulletjme(Context c) {
     }
     // *************************************************************************
-    // new methods exposed
+    // Runnable methods
 
     /**
      * Simulate a falling sphere and write its coordinates to the activity.
