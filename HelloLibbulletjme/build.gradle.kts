@@ -39,8 +39,6 @@ dependencies {
     implementation(libs.appcompat)
     implementation(libs.constraintlayout)
     implementation(libs.material)
-    implementation(libs.navigation.fragment)
-    implementation(libs.navigation.ui)
     implementation("com.github.stephengold", "Libbulletjme-Android",
             libs.versions.lbj.get(), "", "SpDebug", "aar"
     )
