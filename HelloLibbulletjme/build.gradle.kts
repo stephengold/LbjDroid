@@ -29,7 +29,7 @@ android {
     defaultConfig {
         applicationId = "com.github.stephengold.lbjdroid"
         minSdk = 24 // in order to use Libbulletjme
-        targetSdk = 35
+        targetSdk = 36
         versionCode = 1
         versionName = "1.0"
     }
