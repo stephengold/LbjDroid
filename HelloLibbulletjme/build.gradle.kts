@@ -27,7 +27,7 @@ android {
     compileSdk = 37
     defaultConfig {
         applicationId = "com.github.stephengold.lbjdroid"
-        minSdk = 23
+        minSdk = 24 // in order to use Libbulletjme
         targetSdk = 35
         versionCode = 1
         versionName = "1.0"
